@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511133599 source:d:\programming\codeblocks programs\dsa\binarysearchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+

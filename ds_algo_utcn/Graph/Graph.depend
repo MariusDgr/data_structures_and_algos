@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511771409 source:d:\programming\codeblocks programs\dsa\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1511771409 d:\programming\codeblocks programs\dsa\graph\graph.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509347514 source:d:\programming\codeblocks programs\dsa\doublelist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+

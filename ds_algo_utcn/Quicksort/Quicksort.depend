@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510514541 source:d:\programming\codeblocks programs\dsa\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+
